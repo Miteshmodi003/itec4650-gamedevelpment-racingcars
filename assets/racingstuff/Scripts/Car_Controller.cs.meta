@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: c19c2398b9a4547479e3ceb061f09d9e
+timeCreated: 1461171038
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FL_Wheel: {instanceID: 0}
+  - FR_Wheel: {instanceID: 0}
+  - RL_Wheel: {instanceID: 0}
+  - RR_Wheel: {instanceID: 0}
+  - FL_WheelCollider: {instanceID: 0}
+  - FR_WheelCollider: {instanceID: 0}
+  - RL_WheelCollider: {instanceID: 0}
+  - RR_WheelCollider: {instanceID: 0}
+  - needle: {instanceID: 0}
+  - engineAudioSource: {instanceID: 0}
+  - nitroAudioSource: {instanceID: 0}
+  - engineSound: {instanceID: 0}
+  - nitroSound: {instanceID: 0}
+  - brakelightGroup: {instanceID: 0}
+  - steeringWheel: {instanceID: 0}
+  - nitroGroup: {instanceID: 0}
+  - speedText3D: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
